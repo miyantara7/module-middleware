@@ -1,1 +1,1 @@
-# vins-module-middleware
+# module-middleware
