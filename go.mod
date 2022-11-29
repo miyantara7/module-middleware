@@ -1,4 +1,4 @@
-module Project/module-middleware
+module github.com/vins7/module-middleware
 
 go 1.17
 

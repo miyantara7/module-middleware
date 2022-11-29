@@ -1,11 +1,12 @@
 package middleware
 
 import (
-	"Project/module-middleware/middleware/model"
-	"Project/module-middleware/middleware/util"
 	"errors"
 	"fmt"
 	"time"
+
+	"github.com/vins7/module-middleware/middleware/model"
+	"github.com/vins7/module-middleware/middleware/util"
 
 	"github.com/golang-jwt/jwt/v4"
 	"golang.org/x/crypto/bcrypt"

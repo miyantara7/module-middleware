@@ -1,9 +1,10 @@
 package middleware
 
 import (
-	"Project/module-middleware/middleware/model"
-	"Project/module-middleware/middleware/util"
 	"strings"
+
+	"github.com/vins7/module-middleware/middleware/model"
+	"github.com/vins7/module-middleware/middleware/util"
 
 	"github.com/gin-gonic/gin"
 )

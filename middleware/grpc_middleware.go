@@ -1,8 +1,9 @@
 package middleware
 
 import (
-	"Project/module-middleware/middleware/model"
 	"context"
+
+	"github.com/vins7/module-middleware/middleware/model"
 
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/metadata"
